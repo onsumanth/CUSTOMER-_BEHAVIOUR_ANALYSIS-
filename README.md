@@ -199,11 +199,12 @@ Based on the analysis:
 ## Project Structure
 
 ```
-Customer_Behaviour_Analysis
+customer-behavior-analysis
 │
 ├── customer_shopping_behavior.csv
 ├── customer_behavior_sql_queries.sql
 ├── customer_behavior_dashboard.pbix
+├── Customer_Shopping_Behavior_Analysis.ipynb
 ├── README.md
 └── LICENSE
 ```
@@ -215,7 +216,7 @@ Customer_Behaviour_Analysis
 ### Step 1: Clone the Repository
 
 ```
-git clone https://github.com/yourusername/customer-behaviour-analysis.git
+git clone https://github.com/onsumanth/customer-behavior-analysis.git
 ```
 
 ### Step 2: Open the Jupyter Notebook
