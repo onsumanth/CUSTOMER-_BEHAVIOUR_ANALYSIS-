@@ -171,7 +171,9 @@ An interactive **Power BI dashboard** was created to visualize insights such as:
 
 The dashboard helps stakeholders quickly identify patterns and make data-driven decisions.
 
----
+### Dashboard Preview
+
+![Power BI Dashboard](dashboard.png)
 
 ## Key Insights
 
